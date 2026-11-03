@@ -55,3 +55,12 @@ Cloud
 Testing
  ↓
 Deployment
+
+---
+
+### 🎓 Student Community Initiatives
+
+#### 📌 [India Tech Internships Tracker](https://github.com/manojkamminana850-oss/internship-tracker)
+An automatically updated repository tracking 90+ company career pages (Google, Microsoft, Juspay, Apple, Nvidia, etc.) for active student internship openings in India.
+
+👉 **[Explore 35+ Active Internships →](https://github.com/manojkamminana850-oss/internship-tracker)** *(Auto-updated daily)*
